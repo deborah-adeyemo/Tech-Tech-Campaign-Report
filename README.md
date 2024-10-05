@@ -2,7 +2,6 @@
 
 
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 Fresh Cart is an e-commerce company that has been actively leveraging various digital platforms to drive online sales. It operates within the online retail industry, where optimizing ad spend and conversion rates is crucial for maintaining profitability and growth. Fresh Cart's business model revolves around targeting diverse audiences across platforms which includes YouTube, Twitter, Facebook, Instagram, and Google Ads. The focus of this analysis is to understand the performance of these platforms from a data analytics perspective and provide actionable insights to optimize future campaigns.
 
 
