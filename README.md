@@ -14,11 +14,11 @@ Insights and recommendations are provided on the following key areas:
 - **External Comparative Table :** Records economic indicators (GDP growth rate, inflation rate, and consumer sentiment index).
 
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The data used were already cleaned and checked for errors. It was 100% error free  [link].
 
 Targed SQL queries regarding various business questions can be found here [link].
 
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
+An interactive Looker dashboard used to report and explore sales trends can be found here [https://lookerstudio.google.com/embed/reporting/040635eb-2172-4049-972a-5471220af68c/page/p_nl40uy6mjd].
 
 
 # Executive Summary
