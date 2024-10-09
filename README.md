@@ -64,39 +64,39 @@ TechTech's campaigns show a wide variability in performance, with higher engagem
 
 ### Category 2:Customer Base Analysis
 
-* **Main insight 1.** Female customers, especially in key locations like Chicago, tend to have higher engagement rates.
+* **Main insight 1 :** Female customers, especially in key locations like Chicago, tend to have higher engagement rates.
   
-* **Main insight 2.** Premium customers generate higher revenue per campaign, with significantly better conversions.
+* **Main insight 2 :** Premium customers generate higher revenue per campaign, with significantly better conversions.
   
-* **Main insight 3.** Younger demographics (under 40) engage more with campaigns but do not always translate to higher sales.
+* **Main insight 3 :** Younger demographics (under 40) engage more with campaigns but do not always translate to higher sales.
   
-* **Main insight 4.** Geographic distribution shows TechTech’s sales are concentrated in urban areas like New York and Los Angeles.
+* **Main insight 4 :** Geographic distribution shows TechTech’s sales are concentrated in urban areas like New York and Los Angeles.
 
 [Visualization specific to category 2]
 
 
 ### Category 3:Competitor Campaign Comparison
 
-* **Main insight 1.** Competitors have a more balanced allocation of resources across segments, leading to higher overall ROI.
+* **Main insight 1:** Competitors have a more balanced allocation of resources across segments, leading to higher overall ROI.
   
-* **Main insight 2.** Competitors generally achieve better consistency in their campaign performance across various regions.
+* **Main insight 2:** Competitors generally achieve better consistency in their campaign performance across various regions.
   
-* **Main insight 3.** TechTech's campaigns often achieve higher impressions and clicks but lack the conversion rates seen by competitors.
+* **Main insight 3:** TechTech's campaigns often achieve higher impressions and clicks but lack the conversion rates seen by competitors.
   
-* **Main insight 4.** Competitors capitalize on emerging trends faster, demonstrating agility in marketing strategies.
+* **Main insight 4:** Competitors capitalize on emerging trends faster, demonstrating agility in marketing strategies.
 
 [Visualization specific to category 3]
 
 
 ### Category 4:External Factors
 
-* **Main insight 1.** Economic indicators like GDP and inflation have a limited direct impact on TechTech’s campaign performance.
+* **Main insight 1:** Economic indicators like GDP and inflation have a limited direct impact on TechTech’s campaign performance.
   
-* **Main insight 2.** Consumer sentiment shows a mild correlation with campaign engagement.  
+* **Main insight 2:** Consumer sentiment shows a mild correlation with campaign engagement.  
   
-* **Main insight 3.** Seasonal factors have a stronger influence on sales and conversions than broader economic trends.
+* **Main insight 3:** Seasonal factors have a stronger influence on sales and conversions than broader economic trends.
   
-* **Main insight 4.** Campaigns aligned with market trends show better returns, particularly in Q3 and Q4 of the year.
+* **Main insight 4:** Campaigns aligned with market trends show better returns, particularly in Q3 and Q4 of the year.
 
 [Visualization specific to category 4]
 
