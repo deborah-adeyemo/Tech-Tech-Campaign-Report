@@ -21,19 +21,6 @@ Targed SQL queries regarding various business questions can be found here [link]
 An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
 
-
-# Data Structure & Initial Checks
-
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
-
-[Entity Relationship Diagram here]
-
-
-
 # Executive Summary
 
 ### Overview of Findings
