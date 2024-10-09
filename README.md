@@ -9,8 +9,11 @@ TechTech operates in a highly competitive industry, with established players and
 Insights and recommendations are provided on the following key areas:
 
 - **Marketing Campaigns Table :** Tracks campaign performance metrics such as ad spend, impressions, clicks, conversions, and sales.
+  
 - **Customers Bases Analysis Table :** Includes demographic information like age, gender, location, and customer segment (e.g., Regular, Premium, New).
+  
 - **Competitor Campaigns Table :** Captures performance data of competitor campaigns such as ad spend, conversions, and ROI.
+  
 - **External Comparative Table :** Records economic indicators (GDP growth rate, inflation rate, and consumer sentiment index).
 
 
@@ -91,8 +94,11 @@ TechTech's campaigns show a wide variability in performance, with higher engagem
 Based on the insights and findings above, we recommend the Marketing Team to consider the following actions:
 
 **Reallocate Resources :** Invest more in campaigns targeting Premium customer segments, as they generate higher conversions and sales.
+
 **Improve Consistency  :** Focus on analyzing underperforming campaigns to understand the variability in performance.
+
 **Optimize Targeting  :** Tailor campaigns to specific demographic groups, especially females and customers in urban areas like Chicago and New York.
+
 **Leverage Competitor Tactics :** Study competitor strategies for agility in responding to market trends and optimize TechTech’s campaign timelines accordingly.
 
   
@@ -103,6 +109,8 @@ Based on the insights and findings above, we recommend the Marketing Team to con
 Throughout the analysis, Several assumptions were made to ensure the analysis's accuracy. These assumptions and caveats are noted below:
 
 **Assumption 1 :** Missing customer location data was inferred based on nearby cities.
+
 **Assumption 2 :** Incomplete economic data from Q4 was replaced with average values from Q3 to ensure consistency in external factors.
+
 **Assumption 3 :** Some outlier data points in conversion rates were excluded from analysis to prevent skewing of results.
 
