@@ -1,20 +1,18 @@
 # Tech-Tech-Campaign-Report
 
-TechTech is a  prominent electronics company with a decade-long experience in the tech sector of the electronics industry. A legacy of resilience and innovation. The company specializes in a diverse array of electronic products, encompassing smartphones, laptops, and cutting-edge smart home devices providing top-notch electronic products. They face several business challenges in the competitive landscape with a mission to outshine in the market while maintaining excellence and customer satisfaction. TechTech operates in a highly competitive industry, with established players and emerging competitors constantly vying for market share. Optimizing marketing resource allocation is critical to ensure maximum return on investment (ROI). TechTech wants to continuously monitor and evaluate the effectiveness of its marketing campaigns relative to competitors and stand out, while improving its brand positioning and visibility through strategic marketing.
+TechTech is a  prominent electronics company with a decade-long experience in the tech sector of the electronics industry. A legacy of resilience and innovation. The company specializes in a diverse array of electronic products, encompassing smartphones, laptops, and cutting-edge smart home devices providing top-notch electronic products. They face several business challenges in the competitive landscape with a mission to outshine in the market while maintaining excellence and customer satisfaction. 
  
 
-
-
-
 # Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+TechTech operates in a highly competitive industry, with established players and emerging competitors constantly vying for market share. Optimizing marketing resource allocation is critical to ensure maximum return on investment (ROI). TechTech wants to continuously monitor and evaluate the effectiveness of its marketing campaigns relative to competitors and stand out, while improving its brand positioning and visibility through strategic marketing.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Marketing Campaigns Table :** Tracks campaign performance metrics such as ad spend, impressions, clicks, conversions, and sales.
+- **Customers Bases Analysis Table :** Includes demographic information like age, gender, location, and customer segment (e.g., Regular, Premium, New).
+- **Competitor Campaigns Table :** Captures performance data of competitor campaigns such as ad spend, conversions, and ROI.
+- **External Comparative Table :** Records economic indicators (GDP growth rate, inflation rate, and consumer sentiment index).
+
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
