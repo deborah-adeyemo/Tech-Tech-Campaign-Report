@@ -40,61 +40,63 @@ The companies main database structure as seen below consists of four tables: tab
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+TechTech's campaigns show a wide variability in performance, with higher engagement from younger demographics and premium customers. Competitor campaigns demonstrate better consistency. External economic factors, like GDP and inflation, have a limited impact, suggesting that seasonal or market trends may have a stronger influence.
+
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
 
 
 # Insights Deep Dive
-### Category 1:
+### Category 1:Marketing Campaign Performance
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+
+* **Main insight 1 :** Higher ad spend generally results in more impressions but does not necessarily lead to higher conversions.  .
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2 :** Campaigns targeting 'Regular' customer segments perform better in terms of conversions and sales.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3 :** Competitors achieve more consistent results with slightly lower ad spends, yielding better ROI on average.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 4 :** TechTech campaigns show variability, with some significantly outperforming competitors, while others underperform.
 
 [Visualization specific to category 1]
 
 
-### Category 2:
+### Category 2:Customer Base Analysis
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 1.** Female customers, especially in key locations like Chicago, tend to have higher engagement rates.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2.** Premium customers generate higher revenue per campaign, with significantly better conversions.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3.** Younger demographics (under 40) engage more with campaigns but do not always translate to higher sales.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 4.** Geographic distribution shows TechTech’s sales are concentrated in urban areas like New York and Los Angeles.
 
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Category 3:Competitor Campaign Comparison
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 1.** Competitors have a more balanced allocation of resources across segments, leading to higher overall ROI.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2.** Competitors generally achieve better consistency in their campaign performance across various regions.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3.** TechTech's campaigns often achieve higher impressions and clicks but lack the conversion rates seen by competitors.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 4.** Competitors capitalize on emerging trends faster, demonstrating agility in marketing strategies.
 
 [Visualization specific to category 3]
 
 
-### Category 4:
+### Category 4:External Factors
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 1.** Economic indicators like GDP and inflation have a limited direct impact on TechTech’s campaign performance.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 2.** Consumer sentiment shows a mild correlation with campaign engagement.  
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 3.** Seasonal factors have a stronger influence on sales and conversions than broader economic trends.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Main insight 4.** Campaigns aligned with market trends show better returns, particularly in Q3 and Q4 of the year.
 
 [Visualization specific to category 4]
 
@@ -102,26 +104,21 @@ Explain the overarching findings, trends, and themes in 2-3 sentences here. This
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, we recommend the Marketing Team to consider the following actions:
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+**Reallocate Resources : Invest more in campaigns targeting Premium customer segments, as they generate higher conversions and sales.**
+**Improve Consistency  : Focus on analyzing underperforming campaigns to understand the variability in performance.**
+**Optimize Targeting  : Tailor campaigns to specific demographic groups, especially females and customers in urban areas like Chicago and New York.**
+**Leverage Competitor Tactics : Study competitor strategies for agility in responding to market trends and optimize TechTech’s campaign timelines accordingly.**
+
   
 
 
 # Assumptions and Caveats:
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+Throughout the analysis, Several assumptions were made to ensure the analysis's accuracy. These assumptions and caveats are noted below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
-  
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
-  
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+**Assumption 1 : Missing customer location data was inferred based on nearby cities.**
+**Assumption 2 : Incomplete economic data from Q4 was replaced with average values from Q3 to ensure consistency in external factors.**
+**Assumption 3 : Some outlier data points in conversion rates were excluded from analysis to prevent skewing of results.**
+
