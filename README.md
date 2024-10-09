@@ -1,5 +1,7 @@
 # Tech-Tech-Campaign-Report
-Welcome to the sample GitHub ReadME! Use this template as an outline for your data analytics projects. Include one ReadME per repository, with each repository storing one project. Remember, it's better to have quality over quantity - having 2 stellar business-relevant projects stands out much more than 3+ mediocre projects. Feel free to make a copy of this or fork this repository and make it your own. Happy portfolio-ing :) 
+
+TechTech is a  prominent electronics company with a decade-long experience in the tech sector of the electronics industry. A legacy of resilience and innovation. The company specializes in a diverse array of electronic products, encompassing smartphones, laptops, and cutting-edge smart home devices providing top-notch electronic products. They face several business challenges in the competitive landscape with a mission to outshine in the market while maintaining excellence and customer satisfaction. TechTech operates in a highly competitive industry, with established players and emerging competitors constantly vying for market share. Optimizing marketing resource allocation is critical to ensure maximum return on investment (ROI). TechTech wants to continuously monitor and evaluate the effectiveness of its marketing campaigns relative to competitors and stand out, while improving its brand positioning and visibility through strategic marketing.
+ 
 
 
 
