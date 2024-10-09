@@ -16,7 +16,6 @@ Insights and recommendations are provided on the following key areas:
 
 The data used were already cleaned and checked for errors. It was 100% error free  [link].
 
-Targed SQL queries regarding various business questions can be found here [link].
 
 An interactive Looker dashboard used to report and explore sales trends can be found here [https://lookerstudio.google.com/embed/reporting/040635eb-2172-4049-972a-5471220af68c/page/p_nl40uy6mjd].
 
@@ -91,10 +90,10 @@ TechTech's campaigns show a wide variability in performance, with higher engagem
 
 Based on the insights and findings above, we recommend the Marketing Team to consider the following actions:
 
-**Reallocate Resources : Invest more in campaigns targeting Premium customer segments, as they generate higher conversions and sales.**
-**Improve Consistency  : Focus on analyzing underperforming campaigns to understand the variability in performance.**
-**Optimize Targeting  : Tailor campaigns to specific demographic groups, especially females and customers in urban areas like Chicago and New York.**
-**Leverage Competitor Tactics : Study competitor strategies for agility in responding to market trends and optimize TechTech’s campaign timelines accordingly.**
+**Reallocate Resources :** Invest more in campaigns targeting Premium customer segments, as they generate higher conversions and sales.
+**Improve Consistency  :** Focus on analyzing underperforming campaigns to understand the variability in performance.
+**Optimize Targeting  :** Tailor campaigns to specific demographic groups, especially females and customers in urban areas like Chicago and New York.
+**Leverage Competitor Tactics :** Study competitor strategies for agility in responding to market trends and optimize TechTech’s campaign timelines accordingly.
 
   
 
@@ -103,7 +102,7 @@ Based on the insights and findings above, we recommend the Marketing Team to con
 
 Throughout the analysis, Several assumptions were made to ensure the analysis's accuracy. These assumptions and caveats are noted below:
 
-**Assumption 1 : Missing customer location data was inferred based on nearby cities.**
-**Assumption 2 : Incomplete economic data from Q4 was replaced with average values from Q3 to ensure consistency in external factors.**
-**Assumption 3 : Some outlier data points in conversion rates were excluded from analysis to prevent skewing of results.**
+**Assumption 1 :** Missing customer location data was inferred based on nearby cities.
+**Assumption 2 :** Incomplete economic data from Q4 was replaced with average values from Q3 to ensure consistency in external factors.
+**Assumption 3 :** Some outlier data points in conversion rates were excluded from analysis to prevent skewing of results.
 
