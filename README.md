@@ -46,7 +46,7 @@ TechTech's campaigns show a wide variability in performance, with higher engagem
   
 * **Main insight 4 :** TechTech campaigns show variability, with some significantly outperforming competitors, while others underperform.
 
-[[Visualization specific to category 1](https://github.com/deborah-adeyemo/Tech-Tech-Campaign-Report/blob/db36bbc67b75914babde2ac74b35360edc3f14e9/Marketing%20Campaign%20Performance%20Dashboard.png)]
+![Image alt](https://github.com/deborah-adeyemo/Tech-Tech-Campaign-Report/blob/db36bbc67b75914babde2ac74b35360edc3f14e9/Marketing%20Campaign%20Performance%20Dashboard.png)]
 
 
 ### Category 2:Customer Base Analysis
