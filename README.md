@@ -59,7 +59,7 @@ TechTech's campaigns show a wide variability in performance, with higher engagem
   
 * **Main insight 4 :** Geographic distribution shows TechTech’s sales are concentrated in urban areas like New York and Los Angeles.
 
-[Visualization specific to category 2]
+![Image alt](https://github.com/deborah-adeyemo/Tech-Tech-Campaign-Report/blob/f7b694f569901583d7203cc9a0396e1298b1ffa1/Customer%20Base%20Analysis.png)
 
 
 ### Category 3:Competitor Campaign Comparison
