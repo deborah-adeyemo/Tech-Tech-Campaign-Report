@@ -85,7 +85,7 @@ TechTech's campaigns show a wide variability in performance, with higher engagem
   
 * **Main insight 4:** Campaigns aligned with market trends show better returns, particularly in Q3 and Q4 of the year.
 
-[Visualization specific to category 4]
+![Image alt](https://github.com/deborah-adeyemo/Tech-Tech-Campaign-Report/blob/bf58346276de265a25dfb730fd28c3999ff8b96f/External%20Comparative%20Analysis.png)
 
 
 
